@@ -33,7 +33,7 @@ O orçamento estimado para o projeto Oráculo é de R$ 25.000. Este valor inclui
 As principais ferramentas a serem utilizadas no desenvolvimento do projeto Oráculo incluem:
 
 - GitHub para controle de versão e colaboração no código
-- React.js para o desenvolvimento do frontend
+- HTML e CSS para o desenvolvimento do frontend
 - Node.js e Express para o backend
 - Canva para Design de Interface e Prototipagem
 
